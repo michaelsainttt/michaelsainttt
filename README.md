@@ -3,7 +3,7 @@
 💻 Frontend Developer | 🎓 CS Major | Aspiring Software Engineer
 
 I’m passionate about building interactive and visually appealing web apps using **React**, **JavaScript**, and **TypeScript**.  
-Currently learning more about **frontend architecture** and **game dev concepts**.
+Currently learning more about **frontend architecture** and **backend concepts**.
 
 ---
 
